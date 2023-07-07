@@ -1,6 +1,8 @@
 # Hopla
 
-## Input
+In this R scripts, visualization is optional and the outputs used for visualization are exported in csv format.
+
+## Input files
 
 1. settings file
 2. vcf file
